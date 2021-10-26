@@ -1,0 +1,8 @@
+загалом 24
+drwxrwxr-x 2 troll troll 4096 жов  7 10:35 .
+drwxrwxr-x 5 troll troll 4096 жов  5 16:56 ..
+-rw-r--r-- 1 troll troll  331 жов  6 15:06 0event.js
+-rw-r--r-- 1 troll troll  645 жов  7 10:28 1request.js
+-rw-rw-r-- 1 troll troll    0 жов  7 10:37 1.txt
+-rw-r--r-- 1 troll troll  435 жов  7 10:23 2server.js
+-rw-r--r-- 1 troll troll  976 жов  6 16:03 3route.js
